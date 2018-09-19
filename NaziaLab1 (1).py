@@ -40,5 +40,10 @@ def main():
 
     print("Dogs list:", dog_list)
     print("Cat list:", cat_list)
-
+    
+    #There are no real changes that one could do to the recursion method that allows it to traverse the folders and populate the lists
+    #and the only addition I would include is to the interface. Such as allowing the user to choose which list to look at individually.
+    #One could also place a check incase it could not find the directory and display a line of dialogue instead of an error message.
+    #The use of the initialization of the lists and the way they are populated is different from my own code but it works just as well
+    #and the other changes are more for the user's benefit and to protect from errors.
 main()
