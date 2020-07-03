@@ -1,1 +1,1 @@
-# Lab1
+# Identifying-Photos-of-different-animals
